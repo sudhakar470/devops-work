@@ -45,7 +45,7 @@
     - php-mysql
     - php
     - libapache2-mod-php
-    - php-mcrypt
+    #- php-mcrypt
     - python-mysqldb
 
 # https://coderwall.com/p/yez9yw/secure-mysql-with-ansible
